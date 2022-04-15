@@ -1362,7 +1362,7 @@ var LANG_TABLE = {
     ja: JAPANESE,
     it: ITALIAN,
     lt: LITHUANIAN,
-    cz: CZECH,
+    cs: CZECH,
     es: SPANISH,
     'es-ES': SPANISH,
     'es-ca': CATALAN
